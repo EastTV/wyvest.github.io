@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: iridescent.fun
+Token: 37150eaac9e678aa88006a93c9453b3688ee3734f01b8c36aae929d403106ed1
