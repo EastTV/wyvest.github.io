@@ -7,8 +7,21 @@ h1 {
   text-align: center;
   font-family: verdana;
 }
+h2 {
+  color: white;
+  font-family: verdana;
+}
+h3 {
+  color: white;
+  font-family: verdana;
+}
 
 p {
   font-family: verdana;
   font-size: 20px;
+}
+
+a {
+  color: gray;
+  font-family: verdana;
 }
