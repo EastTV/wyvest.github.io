@@ -23,7 +23,6 @@ h6 { font-size: 22px; }
 .banner {
   color: white;
   background: url('https://raw.githubusercontent.com/wyvest/wyvest.github.io/master/background.jpg') top left/cover no-repeat;
-  height: 300px;
   display: flex;
   justify-content: center;
   align-items: center;
