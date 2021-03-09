@@ -1,29 +1,22 @@
-html, body {
-  margin: 0;
-  padding: 0;
-  font-family: verdana;
-  background: #f2f2f2;
+body {
+  background-image: url("background.jpg");
 }
 
-h1 { font-size: 60px; }
-h3 {
-  font-size: 32px;
-  font-weight: normal;
-  text-transform: uppercase;
-  letter-spacing: 4px;
-}
-h6 { font-size: 22px; }
-
-.banner h1, .banner h3, .banner h6 {
-  margin: 0;
-  text-shadow: 2px 2px 6px #000;
+h1 {
+  color: black;
   text-align: center;
+  font-family: verdana;
+}
+h2 {
+  color: black;
+  font-family: verdana;
+}
+h3 {
+  color: black;
+  font-family: verdana;
 }
 
-.banner {
-  color: white;
-   background: url('background.jpg') top left/cover no-repeat;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+p {
+  font-family: verdana;
+  font-size: 20px;
 }
