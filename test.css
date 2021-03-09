@@ -2,7 +2,7 @@ body {
   background-image: url("background.jpg");
   background-size: 1920px 1080px;
   text-align: center;
-  font-family: roboto;
+  font-family: helvetica;
 }
 .button1 {
 			color: #70f030;
