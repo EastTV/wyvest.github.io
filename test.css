@@ -22,7 +22,7 @@ h6 { font-size: 22px; }
 
 .banner {
   color: white;
-  background-image: url("background.jpg");
+   background: url('background.jpg') top left/cover no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
