@@ -1,0 +1,3 @@
+{
+	"main":[ "PlayerAPI", null, null, "api/player/client/ClientPlayerAPI.class", null, "PlayerAPI used to be used when modders didn't know how to use access transformers, and thus it isn't needed anymore." ]
+}
