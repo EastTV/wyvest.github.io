@@ -1,3 +1,8 @@
 {
-	"main":[ "BetterFPS", null, null, "me/guichaguri/betterfps/BetterFps.class", null, "This mod causes incompatibilities, bugs that literally break the game, worse FPS, and just bad in general." ]
+  "name": "BetterFPS",
+  "replacement_name": null,
+  "id": null,
+  "file": "me/guichaguri/betterfps/BetterFps.class",
+  "replacement_download": null,
+  "explanation": "This mod causes incompatibilities, bugs that literally break the game, worse FPS, and just bad in general."
 }

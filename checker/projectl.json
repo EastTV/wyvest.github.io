@@ -1,3 +1,8 @@
 {
-	"main":[ "ProjectL", null, "projectl", null, null, "It's useless and broken." ]
+  "name": "ProjectL",
+  "replacement_name": null,
+  "id": "projectl",
+  "file": null,
+  "replacement_download": "http://sk1er.club/beta",
+  "explanation": "It's useless and broken."
 }

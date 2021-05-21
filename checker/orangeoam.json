@@ -1,3 +1,8 @@
 {
-	"main":[ "Orange OAM", "Sk1er's Old Animations", "animations", null, "http://sk1er.club/beta", "Orange's OAM overwrites a lot of things, breaking things like CIT, and misses some features." ]
+  "name": "Orange OAM",
+  "replacement_name": "Sk1er's Old Animations (BETA)",
+  "id": "animations",
+  "file": null,
+  "replacement_download": "http://sk1er.club/beta",
+  "explanation": "Orange's OAM overwrites a lot of things, breaking things like CIT, and misses some features."
 }

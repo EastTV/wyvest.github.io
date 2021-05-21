@@ -1,3 +1,8 @@
 {
-	"main":[ "Skypixel", null, "skypixel", null, null, "Skypixel is unmaintained and doesn't work anymore." ]
+  "name": "Skypixel",
+  "replacement_name": null,
+  "id": "skypixel",
+  "file": null,
+  "replacement_download": null,
+  "explanation": "Skypixel is unmaintained and doesn't work anymore."
 }

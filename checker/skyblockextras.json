@@ -1,7 +1,8 @@
 {
-	"main":[ "SkyblockExtras", null, "skyblockextras", null, "https://github.com/wyvest/SkyblockExtras-Alternatives", "SkyblockExtras has bad devs\n" +
-                "bad code\n" +
-                "many bugs\n" +
-                "costs money\n" +
-                "and against eula" ]
+  "name": "SkyblockExtras",
+  "replacement_name": null,
+  "id": "skyblockextras",
+  "file": null,
+  "replacement_download": "https://github.com/MicrocontrollersDev/Alternatives/blob/main/SkyblockExtras.md",
+  "explanation": "SkyblockExtras has many things wrong with it. The code is poorly written, the mod has many bugs because of this, it costs money, and thus it is against Mojang EULA."
 }

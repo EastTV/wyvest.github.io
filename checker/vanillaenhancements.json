@@ -1,3 +1,8 @@
 {
-	"main":[ "Vanilla Enhancements", "Patcher","enhancements", null, "https://static.sk1er.club/repo/mods/patcher/1.5.1/1.8.9/Patcher-1.5.1%20(1.8.9).jar", "Vanilla Enhancements has bannable code and badly coded." ]
+  "name": "Vanilla Enhancements",
+  "replacement_name": "Patcher",
+  "id": "enhancements",
+  "file": null,
+  "replacement_download": "https://static.sk1er.club/repo/mods/patcher/1.5.1/1.8.9/Patcher-1.5.1%20(1.8.9).jar",
+  "explanation": "Vanilla Enhancements has bannable code and badly coded."
 }

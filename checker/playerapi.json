@@ -1,3 +1,8 @@
 {
-	"main":[ "PlayerAPI", null, null, "api/player/client/ClientPlayerAPI.class", null, "PlayerAPI used to be used when modders didn't know how to use access transformers, and thus it isn't needed anymore." ]
+  "name": "PlayerAPI",
+  "replacement_name": null,
+  "id": null,
+  "file": "api/player/client/ClientPlayerAPI.class",
+  "replacement_download": null,
+  "explanation": "PlayerAPI used to be used when modders didn't know how to use access transformers, and thus it isn't needed anymore. You should also remove any mods that do use it and replace them."
 }

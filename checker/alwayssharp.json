@@ -1,3 +1,8 @@
 {
-	"main":[ "Always Sharp", "OnHit", "alwayssharp", null, "https://www.mediafire.com/file/nm8dqke0zejssd6/On_Hit_Particles_2.2.jar/file", "AlwaysSharp in general is poorly coded and has barely any customization." ]
+  "name": "Always Sharp",
+  "replacement_name": "OnHit",
+  "id": "alwayssharp",
+  "file": null,
+  "replacement_download": "https://www.mediafire.com/file/nm8dqke0zejssd6/On_Hit_Particles_2.2.jar/file",
+  "explanation": "AlwaysSharp in general is poorly coded and has barely any customization."
 }

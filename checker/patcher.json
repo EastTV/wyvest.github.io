@@ -1,3 +1,7 @@
 {
-	"main":[ "Patcher", null, "patcher", "https://static.sk1er.club/repo/mods/patcher/1.5.1/1.8.9/Patcher-1.5.1%20(1.8.9).jar", "Patcher fixes many vanilla bugs, expands Optifine zoom, and boosts FPS." ]
+  "name": "Patcher",
+  "id": "patcher",
+  "file": null,
+  "download": "https://static.sk1er.club/repo/mods/patcher/1.5.1/1.8.9/Patcher-1.5.1%20(1.8.9).jar",
+  "explanation": "Patcher fixes many vanilla bugs, expands Optifine features, and boosts FPS."
 }

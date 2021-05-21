@@ -1,3 +1,8 @@
 {
-	"main":[ "LabyMod", null, "labymod",null, "https://github.com/MicrocontrollersDev/LabyMod-Alternatives", "LabyMod has many problems, such as the actual mod features being bad, compatibility issues, and more." ]
+  "name": "LabyMod",
+  "replacement_name": null,
+  "id": "labymod",
+  "file": null,
+  "replacement_download": "https://github.com/MicrocontrollersDev/Alternatives/blob/main/LabyMod.md",
+  "explanation": "LabyMod has many problems, such as the actual mod features being bad, compatibility issues, and more."
 }

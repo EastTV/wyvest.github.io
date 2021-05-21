@@ -1,3 +1,8 @@
 {
-	"main":[ "5zig Mod", "5zig Reborn", null, null, "https://github.com/5zig-reborn/The-5zig-Mod/releases/download/3.14.0/5zig-Reborn-1.8.9-3.14.0.jar", "The original 5zig mod causes crashes." ]
+  "name": "5zig Mod",
+  "replacement_name": "5zig Reborn",
+  "id": null,
+  "file": null,
+  "replacement_download": "https://github.com/5zig-reborn/The-5zig-Mod/releases/download/3.14.0/5zig-Reborn-1.8.9-3.14.0.jar",
+  "explanation": "The original 5zig mod causes crashes."
 }

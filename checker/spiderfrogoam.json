@@ -1,3 +1,8 @@
 {
-	"main":[ "Old Animations", "Sk1er Old Animations", null, "com/spiderfrog/oldanimations/OldAnimationsMod.class", "https://sk1er.club/beta", "This mod is filled with bloat, bugs, and just bad in general 'because he loves overwriting your ass'" ]
+  "name": "Old Animations",
+  "replacement_name": "Sk1er Old Animations (BETA)",
+  "id": null,
+  "file": "com/spiderfrog/oldanimations/OldAnimationsMod.class",
+  "replacement_download": "https://sk1er.club/beta",
+  "explanation": "This mod is filled with bloat, bugs, and just bad in general 'because he loves overwriting your ass'"
 }

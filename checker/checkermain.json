@@ -1,4 +1,4 @@
 {
-	"badmods":[ "alwayssharp", "betterfps", "canalexkeystrokes", "canalexperspectivemod", "fivezigmod", "foamfix", "framesplus", "labymod", "modcorecontainer", "orangeoam", "playerapi", "projectl", "resourcepackorganizer", "skyblockcatia", "skyblockextras", "skypixel", "spiderfrogoam", "timechanger", "vanillaenhancements" ],
-	"neededmods":[ "patcher", "optifine" ]
+	"bad_mods":[ "alwayssharp", "betterfps", "canalexkeystrokes", "canalexperspectivemod", "fivezigmod", "foamfix", "framesplus", "labymod", "modcorecontainer", "orangeoam", "playerapi", "projectl", "resourcepackorganizer", "skyblockcatia", "skyblockextras", "skypixel", "spiderfrogoam", "timechanger", "vanillaenhancements" ],
+	"needed_mods":[ "patcher", "optifine" ]
 }

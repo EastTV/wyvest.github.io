@@ -1,3 +1,7 @@
 {
-	"main":[ "Optifine M6_pre1", null, "net/optifine/BetterGrass.class", "https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre1.jar", "Optifine boosts FPS, adds video settings customizability, zoom, and more." ]
+  "name": "Optifine M5",
+  "id": null,
+  "file": "net/optifine/BetterGrass.class",
+  "download": "https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar",
+  "explanation": "Optifine boosts FPS, adds video settings customizability, zoom, and more."
 }
