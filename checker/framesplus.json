@@ -1,7 +1,7 @@
 {
   "name": "Frames+",
   "replacement_name": "Patcher",
-  "id": "null,
+  "id": "null",
   "file": "io/framesplus/FramesPlus.class",
   "replacement_download": "https://static.sk1er.club/repo/mods/patcher/1.5.1/1.8.9/Patcher-1.5.1%20(1.8.9).jar",
   "explanation": "Frames+ has a worse FPS increase than Patcher and also breaks many mods."
